@@ -1,3 +1,4 @@
+![Windrose Logo](Windrose Logo.png)
 # Windrose
 ### _Ventilation Airflow Advisor_
 #### <ins>Video Demo</ins>: https://youtu.be/OluDKioaCnY
